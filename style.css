@@ -283,6 +283,11 @@ small{
     font-size: 0.6rem;
 }
 
+.help {
+    color: red;
+    font-weight: bold;
+}
+
 .input-group{
     margin-top: 0.8rem;
 }
